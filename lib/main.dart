@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:get_x_flutter/pages/home_page.dart';
-import 'package:get_x_flutter/pages/log_in_page.dart';
 import 'package:get_x_flutter/pages/next_page.dart';
 
 void main() {
